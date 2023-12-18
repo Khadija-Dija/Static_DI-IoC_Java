@@ -1,0 +1,9 @@
+dao\DaoImplVCapteur.class
+presentation\Pres2.class
+business\BusinessImpl.class
+dao\DaoImpl2.class
+dao\IDao.class
+dao\DaoImpl.class
+presentation\Pres1.class
+presentation\Pres3.class
+business\IBusiness.class
